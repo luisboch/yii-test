@@ -1,0 +1,391 @@
+2013/05/22 21:50:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e1b5e817/pager.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/e1b5e817...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/e1b5e817/pager.css
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/5a981c57/listview/styles.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/5a981c57...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/5a981c57/listview/styles.css
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6461eec1/jquery.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6461eec1...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/6461eec1/jquery.js
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6461eec1/jquery.ba-bbq.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6461eec1...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/6461eec1/jquery.ba-bbq.js
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/5a981c57/listview/jquery.yiilistview.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/5a981c57...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/5a981c57/listview/jquery.yiilistview.js
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/5a981c57/listview/styles.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/5a981c57...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/5a981c57/listview/styles.css
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e1b5e817/pager.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/e1b5e817...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/e1b5e817/pager.css
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6461eec1/jquery.ba-bbq.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6461eec1...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/6461eec1/jquery.ba-bbq.js
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6461eec1/jquery.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6461eec1...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/6461eec1/jquery.js
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6461eec1/jquery.ba-bbq.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6461eec1...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/6461eec1/jquery.ba-bbq.js
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:50:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/5a981c57/listview/jquery.yiilistview.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/5a981c57...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/5a981c57/listview/jquery.yiilistview.js
+HTTP_REFERER=http://localhost/yii-ftbp/areaCurso
+---
+2013/05/22 21:52:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "view=about".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('view=about')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/view=about
+---
+2013/05/22 21:52:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "view/about".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('view/about')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/view/about
+---
+2013/05/22 21:52:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "view/about".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('view/about')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/view/about
+---
+2013/05/22 21:52:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "view=about".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('view=about')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/view=about
+---
+2013/05/22 21:52:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "view=about".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('view=about')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/view=about
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/css/print.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/css/print.css
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.css
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6461eec1/jquery.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6461eec1...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/6461eec1/jquery.js
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/css/main.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/css/main.css
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/css/screen.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/css/screen.css
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.pack.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.pack.js
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/jquery.tooltip-1.2.6.min.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/jquery.tooltip-1.2.6.min.js
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/main.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/main.js
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/jquery.tooltip-1.2.6.min.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/jquery.tooltip-1.2.6.min.js
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.pack.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.pack.js
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/main.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/main.js
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/images/logo.png".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/images/logo.png
+HTTP_REFERER=http://localhost/yii-ftbp//gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/css/screen.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/css/screen.css
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6461eec1/jquery.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6461eec1...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/6461eec1/jquery.js
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/css/main.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/css/main.css
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.css
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/css/print.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/css/print.css
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.pack.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.pack.js
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/jquery.tooltip-1.2.6.min.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/jquery.tooltip-1.2.6.min.js
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/main.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/main.js
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.pack.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/fancybox/jquery.fancybox-1.3.1.pack.js
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/images/logo.png".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/images/logo.png
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/js/main.js".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/js/main.js
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/daea01c5/images/logo.png".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/daea01c5...')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/assets/daea01c5/images/logo.png
+HTTP_REFERER=http://localhost/yii-ftbp/gii/crud
+---
+2013/05/22 21:57:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/css/screen.css
+HTTP_REFERER=http://localhost/yii-ftbp/index.php/site/contact
+---
+2013/05/22 21:57:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/css/main.css
+HTTP_REFERER=http://localhost/yii-ftbp/index.php/site/contact
+---
+2013/05/22 21:57:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/css/print.css
+HTTP_REFERER=http://localhost/yii-ftbp/index.php/site/contact
+---
+2013/05/22 21:57:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in /usr/share/php/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /usr/share/php/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 /usr/share/php/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/yii-ftbp/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-ftbp/css/form.css
+HTTP_REFERER=http://localhost/yii-ftbp/index.php/site/contact
+---
